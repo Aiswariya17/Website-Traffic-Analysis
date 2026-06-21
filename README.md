@@ -1,4 +1,4 @@
- Website Traffic Analysis
+## Website Traffic Analysis
 
  Objective
  
@@ -27,5 +27,5 @@ Analyze website traffic data and identify key user engagement trends.
 - Engagement varied across traffic sources.
 - Social media was the primary acquisition channel.
 
-## Outcome
+ Outcome
 Built an interactive dashboard to analyze website performance and user engagement.
